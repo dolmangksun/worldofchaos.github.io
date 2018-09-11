@@ -7,4 +7,5 @@
   </body>
 </html>
 
-print('hello')
+<python>
+  print('hello')
